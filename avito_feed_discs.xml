@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito">
-<Ad>
+  <Ad>
     <Id>5929549080</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -60,7 +60,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>4640441450</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -122,7 +122,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549229</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -181,7 +181,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549429</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -241,7 +241,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615715</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -299,7 +299,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615439</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -358,7 +358,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549506</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -418,7 +418,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>4640447784</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -479,7 +479,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>4640432204</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -541,7 +541,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2222723962</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -603,7 +603,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5413537371</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -662,7 +662,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615903</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -720,7 +720,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615711</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -781,7 +781,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615587</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -843,7 +843,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615735</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -901,7 +901,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615478</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -960,7 +960,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1660482504</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1022,7 +1022,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1660482446</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1082,7 +1082,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1660483790</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1144,7 +1144,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5413542524</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1203,7 +1203,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549038</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1263,7 +1263,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417560511</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1325,7 +1325,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549585</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1387,7 +1387,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2747720798</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1449,7 +1449,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615431</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1509,7 +1509,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5813810481</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1569,7 +1569,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417140238</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1630,7 +1630,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549738</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1689,7 +1689,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615915</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1751,7 +1751,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615253</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1810,7 +1810,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549883</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1869,7 +1869,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1650466158</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1931,7 +1931,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1714049327</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1993,7 +1993,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1650446515</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2055,7 +2055,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1714052139</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2117,7 +2117,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615698</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2177,7 +2177,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615256</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2237,7 +2237,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173070357</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2295,7 +2295,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622040084</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2356,7 +2356,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615922</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2417,7 +2417,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615306</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2477,7 +2477,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549348</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2536,7 +2536,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5414279848</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2596,7 +2596,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173043774</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2657,7 +2657,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5413542666</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2718,7 +2718,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615540</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2778,7 +2778,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1751839201</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2840,7 +2840,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615409</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2900,7 +2900,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549455</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2960,7 +2960,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>4946365675</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3020,7 +3020,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549419</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3081,7 +3081,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2763052022</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3143,7 +3143,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615139</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3203,7 +3203,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2763052241</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3265,7 +3265,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549591</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3325,7 +3325,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549415</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3385,7 +3385,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549372</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3445,7 +3445,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549215</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3505,7 +3505,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549400</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3564,7 +3564,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549124</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3623,7 +3623,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5836192661</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3685,7 +3685,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615807</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3743,7 +3743,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615754</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3803,7 +3803,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615391</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3862,7 +3862,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615210</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3922,7 +3922,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680614755</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3982,7 +3982,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622041423</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4043,7 +4043,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622041202</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4103,7 +4103,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622040619</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4163,7 +4163,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5237083705</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4225,7 +4225,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173332819</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4285,7 +4285,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2118728877</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4347,7 +4347,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549337</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4408,7 +4408,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615491</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4468,7 +4468,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549367</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4528,7 +4528,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615417</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4588,7 +4588,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5172890275</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4648,7 +4648,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615169</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4708,7 +4708,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1751842798</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4768,7 +4768,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>3880762932</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4830,7 +4830,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>4267163080</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4889,7 +4889,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549231</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4949,7 +4949,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549344</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5009,7 +5009,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1659218176</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5071,7 +5071,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1659211533</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5133,7 +5133,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615750</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5194,7 +5194,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561375</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5256,7 +5256,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1659210382</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5318,7 +5318,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5413543748</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5377,7 +5377,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615547</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5438,7 +5438,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549166</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5496,7 +5496,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549115</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5556,7 +5556,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1751848386</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5618,7 +5618,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549714</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5678,7 +5678,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615604</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5737,7 +5737,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615336</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5797,7 +5797,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1795974997</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5859,7 +5859,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1987962072</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5917,7 +5917,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615869</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5977,7 +5977,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561719</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6038,7 +6038,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1883998365</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6100,7 +6100,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549276</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6159,7 +6159,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549007</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6219,7 +6219,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929548819</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6280,7 +6280,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1707596306</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6342,7 +6342,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1708260833</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6404,7 +6404,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5413543549</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6465,7 +6465,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5413542228</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6525,7 +6525,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1659580980</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6584,7 +6584,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1659581028</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6646,7 +6646,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615616</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6707,7 +6707,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1659581069</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6769,7 +6769,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549370</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6828,7 +6828,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615324</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6887,7 +6887,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1650582488</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6948,7 +6948,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1650556345</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7010,7 +7010,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615663</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7072,7 +7072,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615062</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7133,7 +7133,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173060438</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7192,7 +7192,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615858</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7250,7 +7250,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5413538966</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7308,7 +7308,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615052</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7366,7 +7366,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417140464</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7426,7 +7426,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561399</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7486,7 +7486,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615428</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7546,7 +7546,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549260</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7607,7 +7607,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622040212</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7668,7 +7668,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1963806390</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7730,7 +7730,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1821623816</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7788,7 +7788,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549540</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7848,7 +7848,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2118728970</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7907,7 +7907,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5172902284</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7966,7 +7966,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561948</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8027,7 +8027,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549517</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8089,7 +8089,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1736780130</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8151,7 +8151,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615614</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8212,7 +8212,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615489</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8274,7 +8274,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615709</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8336,7 +8336,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549601</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8395,7 +8395,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549320</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8456,7 +8456,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1650660632</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8518,7 +8518,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615806</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8578,7 +8578,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1650662036</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8640,7 +8640,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615989</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8699,7 +8699,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549355</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8758,7 +8758,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1659537168</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8820,7 +8820,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680614901</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8880,7 +8880,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615825</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8942,7 +8942,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549504</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9001,7 +9001,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2050351432</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9061,7 +9061,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1714066641</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9119,7 +9119,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622040965</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9180,7 +9180,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1714130564</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9242,7 +9242,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2118729044</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9304,7 +9304,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622041614</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9366,7 +9366,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2118728641</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9427,7 +9427,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549882</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9487,7 +9487,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549270</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9548,7 +9548,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5836193111</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9608,7 +9608,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173274434</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9668,7 +9668,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5836193642</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9728,7 +9728,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549706</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9789,7 +9789,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549118</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9851,7 +9851,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1714114916</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9913,7 +9913,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5414289601</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9974,7 +9974,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549508</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10036,7 +10036,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549793</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10095,7 +10095,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1740886615</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10157,7 +10157,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1740886039</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10219,7 +10219,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1714117874</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10281,7 +10281,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1714103887</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10343,7 +10343,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1714102843</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10405,7 +10405,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549380</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10466,7 +10466,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1714110816</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10528,7 +10528,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2216939643</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10590,7 +10590,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1714106680</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10652,7 +10652,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2216951449</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10712,7 +10712,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561086</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10772,7 +10772,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053248527</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10831,7 +10831,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053247547</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10890,7 +10890,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053247821</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10949,7 +10949,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053249107</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11009,7 +11009,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053249676</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11069,7 +11069,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053248665</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11130,7 +11130,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6032454352</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11189,7 +11189,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6032454185</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11247,7 +11247,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417562338</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11308,7 +11308,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561126</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11369,7 +11369,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417140355</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11429,7 +11429,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5414282149</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11489,7 +11489,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173272270</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11550,7 +11550,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929548875</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11609,7 +11609,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615797</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11669,7 +11669,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>3880754876</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11731,7 +11731,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2118728787</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11792,7 +11792,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1660542903</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11854,7 +11854,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1661402240</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11916,7 +11916,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1645401862</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11978,7 +11978,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1661402352</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12040,7 +12040,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1661402181</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12099,7 +12099,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>3880769293</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12160,7 +12160,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561800</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12221,7 +12221,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053246875</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12281,7 +12281,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053247252</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12343,7 +12343,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053245820</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12402,7 +12402,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053250184</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12460,7 +12460,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053250660</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12518,7 +12518,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053249764</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12577,7 +12577,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053246950</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12637,7 +12637,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053246070</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12695,7 +12695,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053248649</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12753,7 +12753,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6032453213</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12812,7 +12812,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6032454219</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12871,7 +12871,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6032454394</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12930,7 +12930,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417560828</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12991,7 +12991,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5414944305</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13051,7 +13051,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173220920</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13111,7 +13111,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417560411</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13172,7 +13172,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1645328152</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13233,7 +13233,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5172980496</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13295,7 +13295,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1645402882</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13357,7 +13357,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1645369459</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13419,7 +13419,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417562816</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13479,7 +13479,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1645261024</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13541,7 +13541,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1645395908</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13603,7 +13603,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417562413</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13663,7 +13663,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1661404033</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13725,7 +13725,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417562154</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13786,7 +13786,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1853531432</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13843,7 +13843,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1660507081</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13905,7 +13905,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1660544430</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13967,7 +13967,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417563290</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14027,7 +14027,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2118729009</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14087,7 +14087,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1661402990</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14149,7 +14149,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549389</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14210,7 +14210,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5414281483</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14271,7 +14271,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5414945795</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14330,7 +14330,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2747720918</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14392,7 +14392,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2747720968</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14454,7 +14454,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5172940328</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14514,7 +14514,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1659422411</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14576,7 +14576,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2118728844</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14638,7 +14638,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1740708398</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14700,7 +14700,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1659419945</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14762,7 +14762,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1659421981</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14818,7 +14818,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5413540994</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14878,7 +14878,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549690</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14937,7 +14937,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417140496</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14998,7 +14998,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5680615525</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15057,7 +15057,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053247864</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15116,7 +15116,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6032454085</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15175,7 +15175,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6032454841</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15234,7 +15234,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053247806</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15296,7 +15296,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622040246</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15354,7 +15354,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1661359773</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15416,7 +15416,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1661360745</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15478,7 +15478,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1661361033</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15538,7 +15538,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053248080</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15598,7 +15598,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1661360297</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15655,7 +15655,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053249033</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15715,7 +15715,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2118729708</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15775,7 +15775,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2770471731</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15837,7 +15837,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5329657549</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15898,7 +15898,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417140243</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15960,7 +15960,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549197</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16020,7 +16020,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173140108</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16081,7 +16081,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173006687</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16142,7 +16142,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1661360835</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16204,7 +16204,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561138</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16266,7 +16266,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549393</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16326,7 +16326,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5172895767</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16386,7 +16386,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6032453581</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16445,7 +16445,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5413539200</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16505,7 +16505,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053249535</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16564,7 +16564,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561879</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16625,7 +16625,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417140766</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16686,7 +16686,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549535</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16747,7 +16747,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561457</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16808,7 +16808,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2531243562</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16870,7 +16870,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1792857435</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16932,7 +16932,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1883998324</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16993,7 +16993,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2124235420</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17052,7 +17052,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5237082452</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17114,7 +17114,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>3423005880</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17175,7 +17175,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549681</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17234,7 +17234,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417562515</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17294,7 +17294,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5237082896</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17355,7 +17355,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5414949728</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17415,7 +17415,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053250334</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17476,7 +17476,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053247700</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17538,7 +17538,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053250669</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17598,7 +17598,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5428102176</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17658,7 +17658,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561809</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17720,7 +17720,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2581842281</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17781,7 +17781,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173037654</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17840,7 +17840,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2581841214</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17901,7 +17901,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1934813565</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17963,7 +17963,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417560591</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18023,7 +18023,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1934813530</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18083,7 +18083,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622039498</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18142,7 +18142,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173266664</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18202,7 +18202,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1660745010</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18260,7 +18260,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1660745261</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18320,7 +18320,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1660745278</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18379,7 +18379,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1660745286</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18437,7 +18437,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1833215078</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18496,7 +18496,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173245076</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18557,7 +18557,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417562132</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18617,7 +18617,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622041703</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18678,7 +18678,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5417561032</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18740,7 +18740,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053249821</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18800,7 +18800,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5929549748</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18860,7 +18860,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053248437</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18920,7 +18920,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053250450</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18981,7 +18981,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5413544105</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19040,7 +19040,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2763052249</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19102,7 +19102,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1612573618</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19164,7 +19164,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5172913783</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19224,7 +19224,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2381749417</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19284,7 +19284,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>2763052712</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19344,7 +19344,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>1612577624</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19406,7 +19406,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5414946239</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19468,7 +19468,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173262641</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19530,7 +19530,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5622039991</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19591,7 +19591,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>5173116150</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19652,7 +19652,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053249677</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19713,7 +19713,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053250160</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19773,7 +19773,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6032453056</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19833,7 +19833,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6053247905</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19893,7 +19893,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-<Ad>
+  <Ad>
     <Id>6032454785</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19946,6 +19946,1989 @@
       <Image url="https://ir.ozone.ru/s3/multimedia-1-6/20358920202.jpg" />
       <Image url="https://ir.ozone.ru/s3/multimedia-1-k/20358917732.jpg" />
       <Image url="https://ir.ozone.ru/s3/multimedia-1-t/20358916589.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>6053247309</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 57/52 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные колпачки защитят ваши диски от пыли, грязи и воды, сохраняя их первозданный блеск! Легко устанавливаются, надежно фиксируются и придают автомобилю законченный стильный вид.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от загрязнений и коррозии</p>
+<p>✔️ Простота монтажа без инструмента</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p>✔️ Универсальны для большинства моделей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 57/52 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 57/52, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 57/52 мм</Title>
+    <Price>2235</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-2/20765444474.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-v/20617273759.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/20617273743.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-q/20617272206.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/20617273633.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/20617274748.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/20617274880.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/20617272761.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/20617272671.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/20617274715.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5680615234</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 59/55 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и коррозии, сохранив привлекательный внешний вид вашего автомобиля. Легко устанавливаются и надежно фиксируются, подчеркивая индивидуальность вашего железного коня.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от попадания воды и грязи</p>
+<p>✔️ Простота монтажа без использования инструмента</p>
+<p>✔️ Стойкость к механическим повреждениям и воздействию окружающей среды</p>
+<p>✔️ Универсальны для большинства автомобилей марки Киа</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 59/55 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 59/55, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 59/55 мм</Title>
+    <Price>2685</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/15372598542.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/14783359938.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/14783359401.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-z/14783365907.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/14783365627.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/14783364407.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/14783358504.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5680615702</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 59/55 мм</p>
+<p>🔥 заглушки ступицы Киа К5</p>
+<p><br></p>
+<p>Защитите свои диски стильными и практичными заглушками! Эти колпачки надежно закрывают ступицу, предотвращая попадание грязи и воды внутрь. Благодаря простоте установки они идеально подойдут тем, кто хочет быстро освежить внешний вид своего автомобиля.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Надежная фиксация обеспечивает постоянную защиту</p>
+<p>✔️ Стойкий материал сохранит привлекательный вид надолго</p>
+<p>✔️ Универсальность позволяет использовать на большинстве популярных моделей</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 59/55 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: Kia K5</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 59/55, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 59/55 мм</Title>
+    <Price>2586</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/15372624896.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/14772431652.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-g/14772420628.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-3/14772422919.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/14772427570.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/14772414720.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/14772431206.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/14772426117.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5929549457</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа К5</p>
+<p><br></p>
+<p>Устали от грязных и ржавых ступиц? Эти стильные заглушки защитят ваши диски от пыли, воды и коррозии! Теперь ваш автомобиль будет выглядеть идеально даже после долгой поездки по бездорожью.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Надежная фиксация и защита от влаги</p>
+<p>✔️ Сохраняют привлекательный вид надолго</p>
+<p>✔️ Универсальны для большинства моделей Kia K5</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: Kia K5</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Kia, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/20249299581.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/20075924482.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/20075923508.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/20075922801.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/20075921395.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/20075921506.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/20075924876.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5417140872</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа К5</p>
+<p><br></p>
+<p>Ваш автомобиль заслуживает защиты! Эти стильные заглушки надежно прикроют ступицу вашего Kia K5, защитив её от пыли, воды и коррозии. Простота монтажа позволит установить их самостоятельно за считанные минуты, а стильный дизайн подчеркнет индивидуальность вашего железного коня.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от попадания грязи и влаги</p>
+<p>✔️ Легко устанавливаются без использования инструмента</p>
+<p>✔️ Долговечны благодаря материалу ABS-пластика</p>
+<p>✔️ Стильно выглядят и дополняют общий образ автомобиля</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: отсутствует</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: Kia K5</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надежной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia K5, колпачки ступицы Kia, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-s/13700937628.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/13700942974.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/13700937274.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/13700943609.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/13700941193.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/13700940967.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-4/13700940880.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/13700939805.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/13700939866.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>6053246308</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 57/52 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и коррозии, сохранив их первозданный блеск! Легко устанавливаются и придают автомобилю законченный стильный вид.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Надежная защита от внешних воздействий</p>
+<p>✔️ Простота монтажа без инструмента</p>
+<p>✔️ Долговечное покрытие, сохраняющее привлекательность</p>
+<p>✔️ Универсальность под большинство популярных моделей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 57/52 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 57/52, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 57/52 мм</Title>
+    <Price>2235</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-1/20765443105.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/20616842417.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-2/20616843746.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/20616845267.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/20616842400.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/20616840915.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-g/20616842176.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-z/20616843815.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5417560922</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные колпачки защитят ваши диски от пыли, грязи и коррозии, сохранив их первозданный блеск! Легко устанавливаются, придают автомобилю законченный и ухоженный вид.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от загрязнений и повреждений</p>
+<p>✔️ Простота монтажа без специнструментов</p>
+<p>✔️ Надежная фиксация благодаря точному размеру</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-h/13704569693.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/13704568295.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/13704568967.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-e/13704564182.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-s/13704568372.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/13704566844.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/13704569453.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/13704570005.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5929549252</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Ваш автомобиль заслуживает защиты! Эти стильные колпачки надежно защитят ваши диски от пыли, грязи и воды, сохраняя их первозданный блеск надолго. Простота установки позволит вам быстро обновить внешний вид вашего железного коня.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Надежная фиксация и защита от внешних воздействий</p>
+<p>✔️ Стильный дизайн подчеркивает индивидуальность автомобиля</p>
+<p>✔️ Подходит для большинства популярных моделей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/20249239163.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/20068751700.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-e/20068757402.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/20068753066.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/20068750401.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-s/20068756624.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-u/20068755402.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/20068755490.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-p/20068753741.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/20068759032.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>6032454883</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 62/55 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Ваш автомобиль заслуживает защиты! Эти стильные колпачки надежно защитят ваши диски от пыли, грязи и коррозии, сохраняя привлекательный внешний вид вашего Kia K5. Простота установки и долговечность материала обеспечат долгую службу и безупречный вид ваших колес.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от попадания воды и грязи</p>
+<p>✔️ Легко устанавливаются без использования инструмента</p>
+<p>✔️ Сохраняют первоначальный блеск и цвет надолго</p>
+<p>✔️ Улучшают визуальное восприятие автомобиля</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 62/55 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: Kia K5</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надежной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 62/55, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 62/55 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/20366046396.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/20321628725.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/20321629473.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/20321632904.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/20321630839.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/20321622105.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/20321623273.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/20321628927.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/20321631983.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>1612474995</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 58/50 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и коррозии! Сделайте свой автомобиль привлекательнее и сохраните заводской вид колёс. Легко устанавливаются и долго служат благодаря прочному материалу.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от загрязнений и повреждений</p>
+<p>✔️ Простота монтажа без специнструментов</p>
+<p>✔️ Долговечны и устойчивы к износу</p>
+<p>✔️ Улучшают внешний вид авто</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 58/50 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 58/50, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 58/50 мм</Title>
+    <Price>2934</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-1/7579949905.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/7579949902.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/7579949897.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-2/7579949906.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/7579949910.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/7579949891.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-4/7579949872.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5417138892</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Ваш автомобиль заслуживает защиты! Эти стильные заглушки надежно прикроют ступицу вашего Kia, защитив её от пыли, грязи и воды. Теперь ваши диски будут выглядеть идеально даже после долгой поездки по бездорожью.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Защищают от внешних воздействий</p>
+<p>✔️ Сохраняют первозданный вид надолго</p>
+<p>✔️ Подходит большинству популярных моделей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/13700800878.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/13700806899.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/13700804014.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-u/13700806482.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/13700804670.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/13700806461.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-m/13700806078.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>6053247410</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 57/52 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и коррозии! Легко устанавливаются, придают автомобилю законченный и ухоженный вид. Надежная фиксация обеспечивает долгую службу и сохранность ваших дисков.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Простота монтажа - установка за несколько секунд</p>
+<p>✔️ Защита от внешних воздействий - сохраняют первоначальный вид надолго</p>
+<p>✔️ Универсальность - подходят для многих моделей автомобилей</p>
+<p>✔️ Улучшение внешнего вида - стильный аксессуар для вашего авто</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 57/52 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 57/52, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 57/52 мм</Title>
+    <Price>2277</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/20765444477.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/20615749680.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/20615753250.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/20615744240.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-e/20615748314.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/20615744168.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-g/20615748928.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/20615746750.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5417560705</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли и грязи, сохранив их первоначальный блеск! Легко устанавливаются и идеально садятся по месту, подчеркивая элегантность вашего автомобиля.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от загрязнений и коррозии</p>
+<p>✔️ Простота монтажа без использования инструмента</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p>✔️ Универсальны для большинства моделей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/13735193521.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/13735210834.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/13735195717.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-v/13735200631.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/13735193277.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/13735205537.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/13735214962.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/13735221359.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5173064407</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски Kia 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные колпачки защитят ваши диски от пыли, воды и повреждений, сохраняя их первоначальный блеск надолго! Легко устанавливаются вручную за считанные минуты, не требуя дополнительных инструментов. Ваш автомобиль будет выглядеть идеально завершённым и ухоженным благодаря этим простым аксессуарам.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от загрязнений и коррозии</p>
+<p>✔️ Простота монтажа без специнструментов</p>
+<p>✔️ Сохраняют привлекательный внешний вид долгое время</p>
+<p>✔️ Подходит для многих популярных моделей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2589</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/13087131272.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/12882714557.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/12882710453.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/12882710605.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/12882714643.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/12882713577.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/12882711668.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/12882708594.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>6053246332</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 57/52 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и коррозии, сохранив привлекательный внешний вид вашего автомобиля. Легко устанавливаются и надежно фиксируются, подчеркивая индивидуальность вашего транспортного средства.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от попадания воды и грязи</p>
+<p>✔️ Простота монтажа без использования инструмента</p>
+<p>✔️ Долговечность благодаря качественному материалу</p>
+<p>✔️ Универсальны для большинства автомобилей марки Киа</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 57/52 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 57/52, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 57/52 мм</Title>
+    <Price>2235</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/20765443839.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/20616855778.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/20616857432.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/20616857313.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-q/20616855938.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-g/20616856648.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/20616857537.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5414942679</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и коррозии! Легко устанавливаются, придают автомобилю законченный и стильный вид. Сделаны из прочного пластика, долго сохраняют привлекательный внешний вид.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от загрязнений и повреждений</p>
+<p>✔️ Простота монтажа без инструмента</p>
+<p>✔️ Долговечны благодаря качественному материалу</p>
+<p>✔️ Улучшают визуальное восприятие вашего авто</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/13692517304.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/13692510411.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-m/13692510166.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/13692523560.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-p/13692506641.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-h/13692517253.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/13692514401.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-v/13692504559.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/13692509445.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5428099362</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и коррозии! Простота установки и надёжная фиксация обеспечат долговечность и привлекательный внешний вид вашего автомобиля.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Надежно фиксируются, предотвращая потерю</p>
+<p>✔️ Защищают ступицу от внешних воздействий</p>
+<p>✔️ Улучшают визуальное восприятие автомобиля</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-k/13737309212.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-q/13737316922.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/13737303054.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/13737292723.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/13737292545.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/13737292943.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-4/13737298288.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/13737315597.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5929549454</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, воды и повреждений! Легко устанавливаются, надежно фиксируются и придают автомобилю законченный внешний вид. Сделайте свой автомобиль еще привлекательнее и обеспечьте дополнительную защиту дискам.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают от попадания грязи и влаги</p>
+<p>✔️ Эстетичный дизайн под хром и черный цвет</p>
+<p>✔️ Простота установки без инструмента</p>
+<p>✔️ Долговечны благодаря прочному материалу</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-u/20249256990.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-3/20076651723.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/20076652446.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-s/20076652972.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/20067946056.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/20076648584.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-s/20076649444.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-k/20076653216.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>6053247711</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 57/52 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные колпачки защитят ваши диски от пыли, грязи и воды, сохранив их первоначальный блеск надолго! Легко устанавливаются вручную, не требуя инструмента, а стильный дизайн подчеркнёт индивидуальность вашего железного коня.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от попадания грязи и влаги</p>
+<p>✔️ Простота монтажа — установка за считанные минуты</p>
+<p>✔️ Стойкий материал ABS-пластика сохранит привлекательный вид долгие годы</p>
+<p>✔️ Универсальны и подойдут большинству автомобилей марки Киа</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 57/52 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 57/52, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 57/52 мм</Title>
+    <Price>2235</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-4/20765446672.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/20617111121.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-m/20617108618.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/20617108424.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-1/20617111585.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-p/20617111573.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/20617110051.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-q/20617111430.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/20617110006.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5929549436</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, воды и повреждений, сохраняя их первозданный блеск! Простота монтажа позволит установить их самостоятельно за считанные минуты, а стильный дизайн подчеркнёт индивидуальность вашего автомобиля.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают от попадания грязи и влаги внутрь ступиц</p>
+<p>✔️ Легко устанавливаются без использования инструмента</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p>✔️ Универсальны для многих моделей автомобилей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-k/20249227568.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-1/20076468337.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/20076466510.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-p/20076466273.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/20076467084.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/20076470118.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-r/20076469911.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-h/20076470369.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/20076467969.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5929549085</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли и влаги, помогут сохранить первозданный вид вашего автомобиля! Легко устанавливаются и идеально садятся на большинство популярных моделей автомобилей марки Киа.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от попадания грязи и воды</p>
+<p>✔️ Простота монтажа без использования инструмента</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p>✔️ Универсальность — подойдут большинству моделей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/20249283070.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/20186079067.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/20186079297.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-3/20186074227.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/20186079056.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-q/20186080622.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/20186074596.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5417562878</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Ваш автомобиль заслуживает идеального внешнего вида! Эти стильные заглушки защитят ваши диски от пыли, грязи и коррозии, а также придадут машине стильный и законченный облик. Простота установки позволит вам быстро обновить дизайн вашего железного коня.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Надежная защита от внешних воздействий</p>
+<p>✔️ Легкая установка без инструмента</p>
+<p>✔️ Сохраняют привлекательный вид надолго</p>
+<p>✔️ Универсальны для многих моделей автомобилей</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/13734813763.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-p/13734805417.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/13734805061.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-r/13734816003.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-h/13734800117.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-v/13734799195.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/13734803217.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-4/13734801364.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5172905130</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Защитите свои диски стильными и практичными заглушками! Эти аксессуары надежно прикрывают центр колеса, предотвращая попадание пыли и влаги внутрь. Эстетичный дизайн подчеркнет индивидуальность вашего автомобиля и завершит образ элегантного транспортного средства.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без дополнительных инструментов</p>
+<p>✔️ Надежная фиксация обеспечивает длительную эксплуатацию</p>
+<p>✔️ Устойчивы к воздействию окружающей среды</p>
+<p>✔️ Подходит для большинства автомобилей марки Киа</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/13087148136.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/12882272292.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/12882273874.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/12882277037.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/12882277076.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/12882276144.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-e/12882273458.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-u/12882273942.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>6032454172</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 62/55 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные колпачки защитят ваши диски от пыли, грязи и воды, сохраняя их первозданный блеск! Легко устанавливаются и придают автомобилю законченный и ухоженный вид.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от загрязнений и коррозии</p>
+<p>✔️ Простота монтажа без специнструментов</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p>✔️ Подходит для большинства моделей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 62/55 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 62/55, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 62/55 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/20366038302.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/20358686781.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-2/20358687782.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-r/20358690399.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/20358688653.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-v/20358696235.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5417562699</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа Стингер</p>
+<p><br></p>
+<p>Защитите свои диски стильными заглушками! Эти колпачки надежно прикрывают ступицу, предотвращая попадание пыли и воды внутрь. Благодаря простоте монтажа они станут отличным дополнением вашего автомобиля, подчеркнув индивидуальность и заботу о деталях.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легкая установка без инструмента</p>
+<p>✔️ Надежная фиксация благодаря точному размеру</p>
+<p>✔️ Защита от загрязнений и коррозии</p>
+<p>✔️ Презентабельный дизайн для улучшения внешнего вида авто</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: Kia Stinger</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надежной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Kia, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/13703922005.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-r/13703922099.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-z/13703923295.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/13703921051.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/13703924851.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/13703918061.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/13703924599.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/13703917943.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/13703920373.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5417562833</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Защитите свои диски стильными и практичными заглушками! Эти аксессуары надежно прикрывают отверстие ступиц, предотвращая попадание пыли и влаги внутрь, а также придают автомобилю законченный и ухоженный вид.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Надежная фиксация благодаря плотной посадке</p>
+<p>✔️ Устойчивы к внешним факторам и сохраняют привлекательный вид надолго</p>
+<p>✔️ Универсальны для большинства автомобилей марки Киа</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: отсутствует</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: большинство моделей Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите поверхность ступицы от загрязнений</p>
+<p>2️⃣ Убедитесь, что заглушка подходит по размеру</p>
+<p>3️⃣ Установите колпачок легким нажатием до характерного щелчка</p>
+<p>4️⃣ Проверните колесо, чтобы убедиться в надежности крепления</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно проверьте соответствие размеров оригинальной заглушке или отверстию вашего диска!</p>
+<p><br></p>
+<p>📦 Отправляю быстро — всегда на связи</p>
+<p>💬 Нужна помощь с подбором? Задавайте вопросы — подскажу!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/13701161239.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/13701163770.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/13701161589.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/13701165343.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/13701164832.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/13701161134.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-u/13701160938.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/13701166399.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>1708477954</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 58/50 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Защитите свои диски стильными и практичными заглушками! Эти колпачки надежно прикрывают центр колеса, предотвращая попадание пыли и воды внутрь ступицы. Простота монтажа позволит вам установить их самостоятельно всего за несколько минут.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от загрязнений и коррозии</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p>✔️ Универсальны для многих моделей автомобилей</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 58/50 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 58/50, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 58/50 мм</Title>
+    <Price>2871</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-m/8791120966.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/7972548594.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/7972548247.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-q/7972548002.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/7972548095.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/7972548030.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/7972548041.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/7972548063.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-q/7972548290.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/7972548413.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>6032453426</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 62/55 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Ваш автомобиль заслуживает защиты! Эти стильные хромированные колпачки надежно защитят ваши диски от пыли, грязи и воды, сохраняя их первозданный блеск надолго. Легко устанавливаются и придают колесам стильный законченный вид.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Надежная защита от загрязнений</p>
+<p>✔️ Простота монтажа без инструмента</p>
+<p>✔️ Долговечное покрытие, стойкое к царапинам</p>
+<p>✔️ Универсальность – подходят большинству моделей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 62/55 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 62/55, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 62/55 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/20366041629.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/20358651937.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-m/20358660550.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/20358661267.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/20358650662.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-r/20358661527.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/20358651648.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5172922960</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Защитите свои диски стильными и практичными заглушками! Эти колпачки надежно прикрывают ступицу, предотвращая попадание пыли и влаги внутрь, тем самым сохраняя ваши диски чистыми и ухоженными. Благодаря простоте монтажа, установка займет всего несколько минут – никаких дополнительных инструментов не потребуется.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают от загрязнений и коррозии</p>
+<p>✔️ Легко устанавливаются и снимаются</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p>✔️ Подходит большинству популярных моделей автомобилей</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надежной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/13087726412.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-s/12882326752.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/12882332014.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/12882334956.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/12882333516.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/12882334873.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/12882331978.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-g/12882333832.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>1612427496</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 58/50 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и воды, сохраняя их безупречный внешний вид! Легко устанавливаются и идеально подойдут для вашего авто марки Kia.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от коррозии и загрязнений</p>
+<p>✔️ Быстро монтируются без инструмента</p>
+<p>✔️ Эстетичный дизайн под хром и черный цвет</p>
+<p>✔️ Надежная фиксация обеспечивает долговечность использования</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 58/50 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 58/50, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 58/50 мм</Title>
+    <Price>2871</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-g/7971732088.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-q/7971732026.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/7971732585.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/7971732343.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-m/7971732490.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/7971731795.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/7971731899.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/7971732504.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-z/7971732323.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/7971732369.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5929549179</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа Стингер</p>
+<p><br></p>
+<p>Эти стильные заглушки надежно защитят ваши диски от пыли, грязи и воды! Сделаны из прочного пластика, они идеально садятся на диск и придают вашему автомобилю законченный и стильный вид. Простота установки позволит вам самостоятельно заменить старые или утраченные элементы всего за несколько минут.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от загрязнений и коррозии</p>
+<p>✔️ Легко устанавливаются без дополнительных инструментов</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p>✔️ Идеально подойдут для вашего Kia Stinger</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: Kia Stinger</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надежной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Kia, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-3/20249299011.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/20073543642.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/20073544723.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/20073542649.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-k/20073545228.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/20073545088.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>5173047136</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Ваш автомобиль заслуживает защиты! Эти элегантные заглушки надежно прикроют уязвимые места ваших дисков, защитив их от пыли, воды и повреждений. Простота монтажа позволит установить их самостоятельно всего за несколько минут.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Надежная фиксация и защита от загрязнений</p>
+<p>✔️ Стойкий материал, сохраняющий привлекательный вид надолго</p>
+<p>✔️ Универсальность — подойдут большинству популярных моделей Kia</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 60/56, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 60/56 мм</Title>
+    <Price>2544</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/13088124802.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-r/12882644415.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-m/12882648730.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-h/12882647717.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/12882646090.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-h/12882648149.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/12882647283.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/12882646253.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+  <Ad>
+    <Id>6053249286</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 57/52 мм</p>
+<p>🔥 заглушки ступицы Киа</p>
+<p><br></p>
+<p>Эти стильные заглушки надежно защитят ваши диски от пыли, грязи и воды! Эстетичный дизайн подчеркнет индивидуальность вашего автомобиля, а простота установки позволит быстро обновить внешний вид колес. Забудьте о коррозии и повреждениях – эти колпачки сохранят ваши диски в идеальном состоянии надолго.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают от загрязнений и влаги</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Сохраняют привлекательный внешний вид долгое время</p>
+<p>✔️ Универсальны для многих моделей автомобилей</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 57/52 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Kia</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Kia</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надежной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Kia, колпачки ступицы Киа, заглушки на литые диски, центральные колпачки Kia, заглушки 57/52, тюнинг дисков Kia, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Kia 57/52 мм</Title>
+    <Price>2235</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-3/20765441127.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-m/20615029690.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-1/20615040217.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/20615033081.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-3/20615027511.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-2/20615028986.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/20615033779.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/20615032728.jpg" />
     </Images>
     <TNVED>3926 30 000 0</TNVED>
     <OKPD2>22.29.29.190</OKPD2>
