@@ -1,66 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Ads formatVersion="3" target="Avito">
-  <Ad>
-    <Id>5929549080</Id>
-    <Address>Москва, Зеленоград, к1126</Address>
-    <Category>Запчасти и аксессуары</Category>
-    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
-<p>🔥 заглушки ступицы Мерседес АМГ</p>
-<p><br></p>
-<p>Защитят ваши колесные диски от грязи, влаги и повреждений! Колпачки придадут вашему авто стильный вид и помогут сохранить эстетику автомобиля надолго.</p>
-<p><br></p>
-<p>✅ Особенности:</p>
-<p>✔️ Защищают центральный диск от коррозии и загрязнений</p>
-<p>✔️ Улучшают визуальный облик вашего автомобиля</p>
-<p>✔️ Легко устанавливаются и снимаются</p>
-<p>✔️ Универсальны и подходят ко многим моделям автомобилей</p>
-<p><br></p>
-<p>📐 Характеристики:</p>
-<p>— Размер: 60/56 мм</p>
-<p>— Количество:</p>
-<p>— Логотип: Mercedes AMG</p>
-<p>— Материал: ABS-пластик</p>
-<p>— Тип: заглушки на диски / колпачки ступицы</p>
-<p>— Совместимость: популярные модели Mercedes AMG</p>
-<p><br></p>
-<p>🔧 Установка:</p>
-<p>1️⃣ Очистите и обезжирьте посадочное место</p>
-<p>2️⃣ Проверьте соответствие размера</p>
-<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
-<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
-<p><br></p>
-<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
-<p><br></p>
-<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
-<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
-<p><br></p>
-<p>🔑 Ключевые слова: заглушки на диски Mercedes AMG, колпачки ступицы Мерседес, заглушки на литые диски, центральные колпачки Mercedes AMG, заглушки 60/56, тюнинг дисков Mercedes AMG, стайлинг колёс</p>]]></Description>
-    <Title>Колпачки на диски Mercedes 60/56 мм</Title>
-    <Price>1951</Price>
-    <GoodsType>Шины, диски и колёса</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Колпаки</ProductType>
-    <Condition>Новое</Condition>
-    <RimDiameter>-</RimDiameter>
-    <CapType>Заглушки для дисков</CapType>
-    <Images>
-      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/20249424646.jpg" />
-      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/20186208119.jpg" />
-      <Image url="https://ir.ozone.ru/s3/multimedia-1-p/20186208421.jpg" />
-      <Image url="https://ir.ozone.ru/s3/multimedia-1-2/20186206670.jpg" />
-      <Image url="https://ir.ozone.ru/s3/multimedia-1-v/20186205511.jpg" />
-      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/20186209377.jpg" />
-      <Image url="https://ir.ozone.ru/s3/multimedia-1-h/20186208017.jpg" />
-      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/20186206054.jpg" />
-    </Images>
-    <TNVED>3926 30 000 0</TNVED>
-    <OKPD2>22.29.29.190</OKPD2>
-    <NoDocuments>Подтверждаю</NoDocuments>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <ListingFee>Package</ListingFee>
-    <Quantity>50</Quantity>
-  </Ad>
-  <Ad>
+<Ad>
     <Id>4640441450</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -122,7 +62,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549229</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -181,7 +121,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549429</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -241,7 +181,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615715</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -299,7 +239,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615439</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -358,7 +298,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549506</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -418,7 +358,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>4640447784</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -479,7 +419,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>4640432204</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -541,7 +481,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2222723962</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -603,7 +543,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5413537371</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -662,7 +602,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615903</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -720,7 +660,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615711</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -781,7 +721,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615587</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -843,7 +783,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615735</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -901,7 +841,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615478</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -960,7 +900,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660482504</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1022,7 +962,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660482446</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1082,7 +1022,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660483790</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1144,7 +1084,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5413542524</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1203,7 +1143,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549038</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1263,7 +1203,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417560511</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1325,7 +1265,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549585</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1387,7 +1327,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2747720798</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1449,7 +1389,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615431</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1509,7 +1449,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5813810481</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1569,7 +1509,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417140238</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1630,7 +1570,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549738</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1689,7 +1629,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615915</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1751,7 +1691,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615253</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1810,7 +1750,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549883</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1869,7 +1809,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1650466158</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1931,7 +1871,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1714049327</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -1993,7 +1933,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1650446515</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2055,7 +1995,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1714052139</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2117,7 +2057,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615698</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2177,7 +2117,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615256</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2237,7 +2177,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173070357</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2295,7 +2235,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622040084</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2356,7 +2296,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615922</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2417,7 +2357,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615306</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2477,7 +2417,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549348</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2536,7 +2476,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5414279848</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2596,7 +2536,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173043774</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2657,7 +2597,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5413542666</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2718,7 +2658,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615540</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2778,7 +2718,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1751839201</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2840,7 +2780,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615409</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2900,7 +2840,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549455</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -2960,7 +2900,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>4946365675</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3020,7 +2960,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549419</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3081,7 +3021,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2763052022</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3143,7 +3083,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615139</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3203,7 +3143,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2763052241</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3265,7 +3205,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549591</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3325,7 +3265,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549415</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3385,7 +3325,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549372</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3445,7 +3385,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549215</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3505,7 +3445,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549400</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3564,7 +3504,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549124</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3623,7 +3563,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5836192661</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3685,7 +3625,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615807</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3743,7 +3683,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615754</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3803,7 +3743,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615391</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3862,7 +3802,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615210</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3922,7 +3862,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680614755</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -3982,7 +3922,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622041423</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4043,7 +3983,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622041202</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4103,7 +4043,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622040619</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4163,7 +4103,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5237083705</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4225,7 +4165,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173332819</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4285,69 +4225,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
-    <Id>2118728877</Id>
-    <Address>Москва, Зеленоград, к1126</Address>
-    <Category>Запчасти и аксессуары</Category>
-    <Description><![CDATA[<p>Колпачки на диски 75/70 мм</p>
-<p>🔥 заглушки ступицы Мерседес Брабус</p>
-<p><br></p>
-<p>Эти стильные заглушки защитят ваши диски от грязи, воды и реагентов, сохранив их первозданный вид надолго! Простота установки и надежная фиксация обеспечат комфорт эксплуатации вашего автомобиля.</p>
-<p><br></p>
-<p>✅ Особенности:</p>
-<p>✔️ Идеально подходят под оригинальные литые диски Mercedes Brabus</p>
-<p>✔️ Защищают ступицу от пыли, влаги и коррозии</p>
-<p>✔️ Легко устанавливаются вручную без инструмента</p>
-<p>✔️ Прочный ABS-пластик устойчив к износу и выгоранию</p>
-<p><br></p>
-<p>📐 Характеристики:</p>
-<p>— Размер: 75/70 мм</p>
-<p>— Количество:</p>
-<p>— Логотип: Mercedes Brabus</p>
-<p>— Материал: ABS-пластик</p>
-<p>— Тип: заглушки на диски / колпачки ступицы</p>
-<p>— Совместимость: оригинальные литые диски Mercedes Brabus</p>
-<p><br></p>
-<p>🔧 Установка:</p>
-<p>1️⃣ Очистите и обезжирьте посадочное место</p>
-<p>2️⃣ Проверьте соответствие размеров</p>
-<p>3️⃣ Установите колпачок до щелчка</p>
-<p>4️⃣ Прижмите плотно для надежной фиксации</p>
-<p><br></p>
-<p>⚠️ Важно: проверьте наружный и посадочный диаметры, а также длину ножки перед покупкой!</p>
-<p><br></p>
-<p>📦 Отправляю быстро — всегда на связи</p>
-<p>💬 Нужна помощь или консультация? С удовольствием отвечу!</p>
-<p><br></p>
-<p>🔑 Ключевые слова: заглушки на диски Mercedes Brabus, колпачки ступицы Мерседес, заглушки на литые диски, центральные колпачки Mercedes Brabus, заглушки 75/70, тюнинг дисков Mercedes, стайлинг колес</p>]]></Description>
-    <Title>Колпачки на диски Mercedes 75/70 мм</Title>
-    <Price>2689</Price>
-    <GoodsType>Шины, диски и колёса</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Колпаки</ProductType>
-    <Condition>Новое</Condition>
-    <RimDiameter>-</RimDiameter>
-    <CapType>Заглушки для дисков</CapType>
-    <Images>
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-t/7535393093.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-u/7535393094.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-p/7535393089.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-f/7535393079.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-r/7535393091.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-d/7535393113.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-w/7535393096.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-p/7535393125.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-h/7535393117.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-z/7535393099.jpg" />
-    </Images>
-    <TNVED>3926 30 000 0</TNVED>
-    <OKPD2>22.29.29.190</OKPD2>
-    <NoDocuments>Подтверждаю</NoDocuments>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <ListingFee>Package</ListingFee>
-    <Quantity>50</Quantity>
-  </Ad>
-  <Ad>
+<Ad>
     <Id>5929549337</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4408,67 +4286,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
-    <Id>5680615491</Id>
-    <Address>Москва, Зеленоград, к1126</Address>
-    <Category>Запчасти и аксессуары</Category>
-    <Description><![CDATA[<p>Колпачки на диски 59/55 мм</p>
-<p>🔥 заглушки ступицы Мерседес Брабус</p>
-<p><br></p>
-<p>Эти стильные колпачки защитят ваши диски от грязи, пыли и влаги, а также придадут автомобилю стильный и законченный вид. С ними ваш автомобиль будет выглядеть ещё более эффектно и привлекательно.</p>
-<p><br></p>
-<p>✅ Особенности:</p>
-<p>✔️ Защищают центральный элемент диска от повреждений и коррозии</p>
-<p>✔️ Улучшают эстетический вид автомобиля</p>
-<p>✔️ Легко устанавливаются и снимаются</p>
-<p>✔️ Универсальны и подходят к популярным моделям Mercedes Brabus</p>
-<p><br></p>
-<p>📐 Характеристики:</p>
-<p>— Размер: 59/55 мм</p>
-<p>— Количество:</p>
-<p>— Логотип: Mercedes Brabus</p>
-<p>— Материал: ABS-пластик</p>
-<p>— Тип: заглушки на диски / колпачки ступицы</p>
-<p>— Совместимость: популярные модели Mercedes Brabus</p>
-<p><br></p>
-<p>🔧 Установка:</p>
-<p>1️⃣ Очистите и обезжирьте посадочное место</p>
-<p>2️⃣ Проверьте соответствие размера</p>
-<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
-<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
-<p><br></p>
-<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
-<p><br></p>
-<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
-<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
-<p><br></p>
-<p>🔑 Ключевые слова: заглушки на диски Mercedes Brabus, колпачки ступицы Мерседес Брабус, заглушки на литые диски, центральные колпачки Mercedes Brabus, заглушки 59/55, тюнинг дисков Mercedes Brabus, стайлинг колёс</p>]]></Description>
-    <Title>Колпачки на диски Mercedes 59/55 мм</Title>
-    <Price>2515</Price>
-    <GoodsType>Шины, диски и колёса</GoodsType>
-    <AdType>Товар приобретен на продажу</AdType>
-    <ProductType>Колпаки</ProductType>
-    <Condition>Новое</Condition>
-    <RimDiameter>-</RimDiameter>
-    <CapType>Заглушки для дисков</CapType>
-    <Images>
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-9/15372739665.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-i/14771125386.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-m/14771126722.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-d/14771118109.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-u/14771126082.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-n/14771119163.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-s/14771122624.jpg" />
-      <Image url="https://ir-20.ozone.ru/s3/multimedia-1-r/14771124063.jpg" />
-    </Images>
-    <TNVED>3926 30 000 0</TNVED>
-    <OKPD2>22.29.29.190</OKPD2>
-    <NoDocuments>Подтверждаю</NoDocuments>
-    <ContactMethod>По телефону и в сообщениях</ContactMethod>
-    <ListingFee>Package</ListingFee>
-    <Quantity>50</Quantity>
-  </Ad>
-  <Ad>
+<Ad>
     <Id>5929549367</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4528,7 +4346,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615417</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4588,7 +4406,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5172890275</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4648,7 +4466,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615169</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4708,7 +4526,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1751842798</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4768,7 +4586,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>3880762932</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4830,7 +4648,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>4267163080</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4889,7 +4707,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549231</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -4949,7 +4767,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549344</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5009,7 +4827,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1659218176</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5071,7 +4889,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1659211533</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5133,7 +4951,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615750</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5194,7 +5012,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561375</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5256,7 +5074,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1659210382</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5318,7 +5136,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5413543748</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5377,7 +5195,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615547</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5438,7 +5256,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549166</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5496,7 +5314,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549115</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5556,7 +5374,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1751848386</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5618,7 +5436,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549714</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5678,7 +5496,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615604</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5737,7 +5555,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615336</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5797,7 +5615,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1795974997</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5859,7 +5677,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1987962072</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5917,7 +5735,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615869</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -5977,7 +5795,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561719</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6038,7 +5856,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1883998365</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6100,7 +5918,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549276</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6159,7 +5977,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549007</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6219,7 +6037,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929548819</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6280,7 +6098,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1707596306</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6342,7 +6160,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1708260833</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6404,7 +6222,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5413543549</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6465,7 +6283,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5413542228</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6525,7 +6343,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1659580980</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6584,7 +6402,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1659581028</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6646,7 +6464,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615616</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6707,7 +6525,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1659581069</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6769,7 +6587,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549370</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6828,7 +6646,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615324</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6887,7 +6705,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1650582488</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -6948,7 +6766,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1650556345</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7010,7 +6828,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615663</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7072,7 +6890,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615062</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7133,7 +6951,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173060438</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7192,7 +7010,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615858</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7250,7 +7068,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5413538966</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7308,7 +7126,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615052</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7366,7 +7184,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417140464</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7426,7 +7244,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561399</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7486,7 +7304,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615428</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7546,7 +7364,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549260</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7607,7 +7425,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622040212</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7668,7 +7486,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1963806390</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7730,7 +7548,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1821623816</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7788,7 +7606,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549540</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7848,7 +7666,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2118728970</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7907,7 +7725,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5172902284</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -7966,7 +7784,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561948</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8027,7 +7845,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549517</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8089,7 +7907,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1736780130</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8151,7 +7969,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615614</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8212,7 +8030,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615489</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8274,7 +8092,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615709</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8336,7 +8154,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549601</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8395,7 +8213,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549320</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8456,7 +8274,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1650660632</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8518,7 +8336,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615806</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8578,7 +8396,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1650662036</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8640,7 +8458,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615989</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8699,7 +8517,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549355</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8758,7 +8576,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1659537168</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8820,7 +8638,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680614901</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8880,7 +8698,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615825</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -8942,7 +8760,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549504</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9001,7 +8819,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2050351432</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9061,7 +8879,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1714066641</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9119,7 +8937,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622040965</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9180,7 +8998,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1714130564</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9242,7 +9060,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2118729044</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9304,7 +9122,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622041614</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9366,7 +9184,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2118728641</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9427,7 +9245,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549882</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9487,7 +9305,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549270</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9548,7 +9366,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5836193111</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9608,7 +9426,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173274434</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9668,7 +9486,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5836193642</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9728,7 +9546,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549706</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9789,7 +9607,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549118</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9851,7 +9669,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1714114916</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9913,7 +9731,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5414289601</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -9974,7 +9792,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549508</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10036,7 +9854,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549793</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10095,7 +9913,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1740886615</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10157,7 +9975,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1740886039</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10219,7 +10037,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1714117874</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10281,7 +10099,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1714103887</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10343,7 +10161,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1714102843</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10405,7 +10223,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549380</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10466,7 +10284,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1714110816</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10528,7 +10346,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2216939643</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10590,7 +10408,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1714106680</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10652,7 +10470,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2216951449</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10712,7 +10530,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561086</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10772,7 +10590,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053248527</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10831,7 +10649,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053247547</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10890,7 +10708,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053247821</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -10949,7 +10767,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053249107</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11009,7 +10827,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053249676</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11069,7 +10887,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053248665</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11130,7 +10948,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454352</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11189,7 +11007,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454185</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11247,7 +11065,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562338</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11308,7 +11126,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561126</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11369,7 +11187,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417140355</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11429,7 +11247,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5414282149</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11489,7 +11307,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173272270</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11550,7 +11368,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929548875</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11609,7 +11427,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615797</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11669,7 +11487,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>3880754876</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11731,7 +11549,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2118728787</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11792,7 +11610,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660542903</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11854,7 +11672,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1661402240</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11916,7 +11734,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1645401862</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -11978,7 +11796,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1661402352</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12040,7 +11858,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1661402181</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12099,7 +11917,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>3880769293</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12160,7 +11978,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561800</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12221,7 +12039,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053246875</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12281,7 +12099,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053247252</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12343,7 +12161,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053245820</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12402,7 +12220,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053250184</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12460,7 +12278,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053250660</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12518,7 +12336,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053249764</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12577,7 +12395,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053246950</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12637,7 +12455,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053246070</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12695,7 +12513,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053248649</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12753,7 +12571,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032453213</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12812,7 +12630,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454219</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12871,7 +12689,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454394</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12930,7 +12748,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417560828</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -12991,7 +12809,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5414944305</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13051,7 +12869,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173220920</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13111,7 +12929,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417560411</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13172,7 +12990,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1645328152</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13233,7 +13051,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5172980496</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13295,7 +13113,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1645402882</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13357,7 +13175,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1645369459</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13419,7 +13237,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562816</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13479,7 +13297,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1645261024</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13541,7 +13359,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1645395908</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13603,7 +13421,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562413</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13663,7 +13481,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1661404033</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13725,7 +13543,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562154</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13786,7 +13604,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1853531432</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13843,7 +13661,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660507081</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13905,7 +13723,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660544430</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -13967,7 +13785,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417563290</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14027,7 +13845,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2118729009</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14087,7 +13905,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1661402990</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14149,7 +13967,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549389</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14210,7 +14028,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5414281483</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14271,7 +14089,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5414945795</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14330,7 +14148,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2747720918</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14392,7 +14210,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2747720968</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14454,7 +14272,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5172940328</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14514,7 +14332,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1659422411</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14576,7 +14394,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2118728844</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14638,7 +14456,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1740708398</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14700,7 +14518,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1659419945</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14762,7 +14580,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1659421981</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14818,7 +14636,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5413540994</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14878,7 +14696,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549690</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14937,7 +14755,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417140496</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -14998,7 +14816,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615525</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15057,7 +14875,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053247864</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15116,7 +14934,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454085</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15175,7 +14993,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454841</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15234,7 +15052,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053247806</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15296,7 +15114,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622040246</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15354,7 +15172,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1661359773</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15416,7 +15234,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1661360745</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15478,7 +15296,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1661361033</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15538,7 +15356,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053248080</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15598,7 +15416,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1661360297</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15655,7 +15473,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053249033</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15715,7 +15533,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2118729708</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15775,7 +15593,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2770471731</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15837,7 +15655,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5329657549</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15898,7 +15716,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417140243</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -15960,7 +15778,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549197</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16020,7 +15838,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173140108</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16081,7 +15899,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173006687</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16142,7 +15960,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1661360835</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16204,7 +16022,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561138</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16266,7 +16084,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549393</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16326,7 +16144,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5172895767</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16386,7 +16204,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032453581</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16445,7 +16263,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5413539200</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16505,7 +16323,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053249535</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16564,7 +16382,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561879</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16625,7 +16443,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417140766</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16686,7 +16504,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549535</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16747,7 +16565,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561457</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16808,7 +16626,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2531243562</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16870,7 +16688,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1792857435</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16932,7 +16750,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1883998324</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -16993,7 +16811,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2124235420</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17052,7 +16870,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5237082452</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17114,7 +16932,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>3423005880</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17175,7 +16993,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549681</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17234,7 +17052,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562515</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17294,7 +17112,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5237082896</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17355,7 +17173,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5414949728</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17415,7 +17233,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053250334</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17476,7 +17294,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053247700</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17538,7 +17356,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053250669</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17598,7 +17416,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5428102176</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17658,7 +17476,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561809</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17720,7 +17538,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2581842281</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17781,7 +17599,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173037654</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17840,7 +17658,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2581841214</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17901,7 +17719,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1934813565</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -17963,7 +17781,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417560591</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18023,7 +17841,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1934813530</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18083,7 +17901,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622039498</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18142,7 +17960,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173266664</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18202,7 +18020,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660745010</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18260,7 +18078,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660745261</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18320,7 +18138,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660745278</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18379,7 +18197,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660745286</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18437,7 +18255,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1833215078</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18496,7 +18314,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173245076</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18557,7 +18375,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562132</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18617,7 +18435,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622041703</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18678,7 +18496,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561032</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18740,7 +18558,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053249821</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18800,7 +18618,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549748</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18860,7 +18678,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053248437</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18920,7 +18738,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053250450</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -18981,7 +18799,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5413544105</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19040,7 +18858,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2763052249</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19102,7 +18920,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1612573618</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19164,7 +18982,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5172913783</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19224,7 +19042,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2381749417</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19284,7 +19102,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2763052712</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19344,7 +19162,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1612577624</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19406,7 +19224,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5414946239</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19468,7 +19286,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173262641</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19530,7 +19348,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622039991</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19591,7 +19409,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173116150</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19652,7 +19470,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053249677</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19713,7 +19531,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053250160</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19773,7 +19591,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032453056</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19833,7 +19651,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053247905</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19893,7 +19711,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454785</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -19954,7 +19772,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053247309</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20016,7 +19834,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615234</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20075,7 +19893,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615702</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20135,7 +19953,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549457</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20194,7 +20012,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417140872</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20255,7 +20073,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053246308</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20315,7 +20133,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417560922</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20375,7 +20193,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549252</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20437,7 +20255,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454883</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20498,7 +20316,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1612474995</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20557,7 +20375,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417138892</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20616,7 +20434,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053247410</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20676,7 +20494,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417560705</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20736,7 +20554,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173064407</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20796,7 +20614,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053246332</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20855,7 +20673,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5414942679</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20916,7 +20734,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5428099362</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -20976,7 +20794,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549454</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21036,7 +20854,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053247711</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21097,7 +20915,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549436</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21158,7 +20976,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549085</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21217,7 +21035,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562878</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21277,7 +21095,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5172905130</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21337,7 +21155,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454172</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21395,7 +21213,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562699</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21456,7 +21274,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562833</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21516,7 +21334,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1708477954</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21578,7 +21396,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032453426</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21637,7 +21455,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5172922960</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21697,7 +21515,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1612427496</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21759,7 +21577,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549179</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21817,7 +21635,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173047136</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21877,7 +21695,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053249286</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21937,7 +21755,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1883998397</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -21997,7 +21815,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2216989100</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22057,7 +21875,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417560858</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22117,7 +21935,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1650677772</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22177,7 +21995,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5237084336</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22237,7 +22055,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2216997317</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22299,7 +22117,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561268</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22360,7 +22178,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562027</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22420,7 +22238,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615872</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22479,7 +22297,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053249753</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22539,7 +22357,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032453451</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22597,7 +22415,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561031</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22658,7 +22476,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053248455</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22720,7 +22538,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454587</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22779,7 +22597,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549241</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22840,7 +22658,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660715951</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22902,7 +22720,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5173001937</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -22961,7 +22779,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561724</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23022,7 +22840,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454335</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23082,7 +22900,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>4320837612</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23144,7 +22962,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5680615945</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23204,7 +23022,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>4320805654</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23264,7 +23082,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1853531441</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23321,7 +23139,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1792878869</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23383,7 +23201,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660698418</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23442,7 +23260,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2531221673</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23504,7 +23322,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660698012</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23566,7 +23384,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660698567</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23621,7 +23439,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549097</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23683,7 +23501,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1850967822</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23742,7 +23560,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660698281</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23804,7 +23622,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417561838</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23866,7 +23684,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929548896</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23925,7 +23743,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417560561</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -23985,7 +23803,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562417</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24046,7 +23864,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6032454353</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24104,7 +23922,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660730421</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24164,7 +23982,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5801903889</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24226,7 +24044,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5414281623</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24287,7 +24105,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1741375343</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24349,7 +24167,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660729913</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24411,7 +24229,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660730915</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24469,7 +24287,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>2381688826</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24528,7 +24346,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417140490</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24588,7 +24406,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>1660730676</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24650,7 +24468,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549092</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24711,7 +24529,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5801946909</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24773,7 +24591,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929550041</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24833,7 +24651,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417562339</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24893,7 +24711,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5417560673</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -24953,7 +24771,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5801956533</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -25015,7 +24833,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5929549450</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -25075,7 +24893,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5802005066</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -25137,7 +24955,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>5622040431</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -25198,7 +25016,7 @@
     <ListingFee>Package</ListingFee>
     <Quantity>50</Quantity>
   </Ad>
-  <Ad>
+<Ad>
     <Id>6053246275</Id>
     <Address>Москва, Зеленоград, к1126</Address>
     <Category>Запчасти и аксессуары</Category>
@@ -25249,6 +25067,793 @@
       <Image url="https://ir.ozone.ru/s3/multimedia-1-p/20616606025.jpg" />
       <Image url="https://ir.ozone.ru/s3/multimedia-1-b/20616606983.jpg" />
       <Image url="https://ir.ozone.ru/s3/multimedia-1-r/20616604767.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>5417561926</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм Mazda</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Защитите свои диски стильными и практичными заглушками! Эти колпачки надежно прикрывают центр колеса, предотвращая попадание пыли и воды внутрь ступиц. Простота монтажа позволит вам установить их самостоятельно всего за несколько минут.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Защищают от загрязнений и коррозии</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p>✔️ Подходит для всех четырех колес вашего авто</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 60/56, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 60/56 мм</Title>
+    <Price>2547</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/13701138442.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/13701144300.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/13701141384.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/13701141311.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/13701141285.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-v/13701140419.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/13701140646.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/13701142677.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>1650646237</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 56/56 мм Mazda</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Ваш автомобиль заслуживает идеального внешнего вида! Эти стильные хромированные колпачки защитят ваши диски от пыли, грязи и коррозии, придавая им стильный и законченный облик. Легко устанавливаются и долго служат, сохраняя красоту ваших колёс.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Надежная защита от загрязнений и повреждений</p>
+<p>✔️ Простота монтажа без использования инструмента</p>
+<p>✔️ Стойкость цвета и блеска под воздействием окружающей среды</p>
+<p>✔️ Универсальность для передних и задних дисков</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 56/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 56/56, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 56/56 мм</Title>
+    <Price>2802</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/8001995568.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/8001995637.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/8001996581.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/8001995667.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/8001996345.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/8001995811.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/8001996129.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/8001996225.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/8001996103.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/8001996296.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>1650646572</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 56/56 мм</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Защитите свои диски стильными и практичными заглушками! Эти колпачки надежно прикрывают ступицу, предотвращая попадание грязи и воды внутрь. Благодаря простоте монтажа они станут отличным дополнением вашего авто, подчеркнув индивидуальность и заботу о техническом состоянии машины.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легкая установка без инструмента</p>
+<p>✔️ Надежная фиксация, исключающая потерю во время движения</p>
+<p>✔️ Защита от коррозии и механических повреждений</p>
+<p>✔️ Стильный дизайн под хромированный металл</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 56/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 56/56, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 56/56 мм</Title>
+    <Price>2874</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/8792788280.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/8001996199.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-s/8001996436.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-s/8001996076.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/8001996390.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/8001996144.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/8001995937.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/8001996404.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-p/8001996001.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-s/8001996112.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>5417561290</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и коррозии! Легко устанавливаются, придают автомобилю законченный и ухоженный вид. Сделаны из прочного пластика, долговечны и надежны.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от попадания воды и грязи</p>
+<p>✔️ Простота монтажа без использования инструмента</p>
+<p>✔️ Элегантный дизайн дополняет экстерьер машины</p>
+<p>✔️ Универсальность – подойдут большинству автомобилей Mazda</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 60/56, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 60/56 мм</Title>
+    <Price>2547</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-x/13704532377.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-k/13704533912.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/13704532404.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/13704534785.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/13704534600.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/13704532160.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/13704536850.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/13704535469.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/13704534550.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>5237083191</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски Mazda 60/56 мм</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Хотите защитить свои литые диски от пыли, воды и повреждений? Эти стильные колпачки помогут вам! Закрывая центр колеса, они предотвращают попадание грязи внутрь ступиц, сохраняя ваши диски чистыми и ухоженными.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Надежная фиксация благодаря плотной посадке</p>
+<p>✔️ Защищают ступицу от коррозии и загрязнений</p>
+<p>✔️ Улучшают внешний вид вашего авто</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 60/56, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 60/56 мм</Title>
+    <Price>2547</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/13167869946.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/13167871786.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/13167883796.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/13167854888.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/13167875637.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-m/13167879250.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-v/13167883255.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/13167877185.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/13167869747.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>5237082389</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски Mazda 60/56 мм</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Эти стильные колпачки защитят ваши диски от пыли, воды и повреждений, сохранив их первоначальный блеск надолго! Легко устанавливаются и придают автомобилю законченный стильный вид.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Надежная защита от загрязнений и коррозии</p>
+<p>✔️ Простота монтажа без специнструментов</p>
+<p>✔️ Сохраняют привлекательный внешний вид длительное время</p>
+<p>✔️ Универсальность под большинство популярных моделей Mazda</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 60/56, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 60/56 мм</Title>
+    <Price>2547</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-6/13167515202.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/13167505463.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-g/13167507688.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/13167513835.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-v/13167507343.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/13167504337.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/13167516884.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/13167521550.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/13167503004.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/13167518445.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>6053248388</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 57/52 мм</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Защитите свои диски стильными и практичными заглушками! Эти колпачки надежно прикрывают ступицу, предотвращая попадание грязи и воды внутрь. Благодаря простоте монтажа они идеально подойдут тем, кто хочет быстро освежить внешний вид своего железного коня.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от пыли и влаги</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Долговечны благодаря прочному материалу</p>
+<p>✔️ Элегантный дизайн подчеркивает стиль вашего авто</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 57/52 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 57/52, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 57/52 мм</Title>
+    <Price>2238</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-7/20765444983.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/20615945556.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/20615943870.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-3/20615942991.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/20615943701.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/20615944870.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-m/20615945386.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-1/20615944177.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-u/20615943990.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>5173029403</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 60/56 мм</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и воды, сохранив их первозданный вид надолго! Легко устанавливаются и идеально садятся на большинство популярных моделей автомобилей марки Mazda.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают от попадания грязи и влаги внутрь ступиц</p>
+<p>✔️ Простота монтажа без использования инструмента</p>
+<p>✔️ Сохраняют привлекательный внешний вид ваших дисков</p>
+<p>✔️ Долговечны благодаря материалу ABS-пластика</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 60/56 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 60/56, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 60/56 мм</Title>
+    <Price>2547</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/13087943577.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/12882591024.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-h/12882589649.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-4/12882587620.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/12882592489.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/12882590615.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/12882591378.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-g/12882589864.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>6032454661</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски Mazda 62/55 мм</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Эти стильные колпачки защитят ваши диски от пыли, грязи и воды, сохранив их первозданный блеск! Легко устанавливаются, придают автомобилю законченный и ухоженный вид.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от загрязнений и коррозии</p>
+<p>✔️ Простота монтажа без специнструментов</p>
+<p>✔️ Долговечны благодаря качественному ABS-пластику</p>
+<p>✔️ Элегантный дизайн подходит большинству автомобилей Mazda</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 62/55 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надежной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 62/55, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 62/55 мм</Title>
+    <Price>2547</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-r/20366063703.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-y/20359510630.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-4/20359515496.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/20359514281.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-a/20359510678.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-h/20359512413.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/20359512876.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/20359512057.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>5622042466</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски Mazda 59/55 мм</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Защитите свои диски стильными и практичными заглушками! Эти колпачки надежно укроют ступицу вашего автомобиля от пыли, воды и повреждений, сохраняя при этом привлекательный внешний вид. Легко устанавливаются и долго служат, поддерживая безупречный облик ваших колес.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают от загрязнений и коррозии</p>
+<p>✔️ Простота монтажа без специнструментов</p>
+<p>✔️ Сохраняют стильный дизайн автомобиля</p>
+<p>✔️ Долговечны благодаря качественному материалу</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 59/55 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 59/55, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 59/55 мм</Title>
+    <Price>2481</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-s/14603528728.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/14423057720.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-c/14423056968.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/14423057424.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-e/14423060714.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-9/14423053905.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-t/14423053133.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>6053247135</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски Mazda 57/52 мм</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Эти стильные хромированные колпачки защитят ваши диски от пыли, грязи и коррозии, а также придадут автомобилю законченный и элегантный вид. Легко устанавливаются вручную без использования инструмента, надежно фиксируются и служат долго благодаря качественному материалу.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от попадания воды и грязи</p>
+<p>✔️ Простота монтажа — установка за несколько секунд</p>
+<p>✔️ Долговечны и устойчивы к повреждениям</p>
+<p>✔️ Универсальны — подойдут большинству автомобилей Mazda</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 57/52 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 57/52, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 57/52 мм</Title>
+    <Price>2238</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/20765447460.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-z/20615619599.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/20615617376.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-8/20615619500.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/20615618940.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/20615617379.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-f/20615617923.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>6032454670</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 62/55 мм Mazda</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши ступицы от пыли, воды и повреждений, сохранив первозданную красоту ваших дисков! Легко устанавливаются и придают автомобилю законченный и ухоженный вид.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Защищают ступицу от попадания грязи и влаги</p>
+<p>✔️ Простота монтажа без использования инструмента</p>
+<p>✔️ Сохраняют привлекательный внешний вид надолго</p>
+<p>✔️ Идеально подойдут взамен утраченных или повреждённых деталей</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 62/55 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 62/55, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 62/55 мм</Title>
+    <Price>2547</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-r/20366060571.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-n/20321654315.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-g/20321659564.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-p/20321660797.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-k/20321653304.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-l/20321657553.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-i/20321665830.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-g/20321663056.jpg" />
+    </Images>
+    <TNVED>3926 30 000 0</TNVED>
+    <OKPD2>22.29.29.190</OKPD2>
+    <NoDocuments>Подтверждаю</NoDocuments>
+    <ContactMethod>По телефону и в сообщениях</ContactMethod>
+    <ListingFee>Package</ListingFee>
+    <Quantity>50</Quantity>
+  </Ad>
+<Ad>
+    <Id>6053249804</Id>
+    <Address>Москва, Зеленоград, к1126</Address>
+    <Category>Запчасти и аксессуары</Category>
+    <Description><![CDATA[<p>Колпачки на диски 57/52 мм</p>
+<p>🔥 заглушки ступицы Мазда</p>
+<p><br></p>
+<p>Эти стильные заглушки защитят ваши диски от пыли, грязи и коррозии! Сделайте свой автомобиль еще привлекательнее и сохраните диски в идеальном состоянии.</p>
+<p><br></p>
+<p>✅ Особенности:</p>
+<p>✔️ Легко устанавливаются без инструмента</p>
+<p>✔️ Надежная фиксация обеспечивает постоянную защиту</p>
+<p>✔️ Стойкий материал выдерживает любые погодные условия</p>
+<p>✔️ Универсальный дизайн подходит большинству автомобилей Mazda</p>
+<p><br></p>
+<p>📐 Характеристики:</p>
+<p>— Размер: 57/52 мм</p>
+<p>— Количество:</p>
+<p>— Логотип: Mazda</p>
+<p>— Материал: ABS-пластик</p>
+<p>— Тип: заглушки на диски / колпачки ступицы</p>
+<p>— Совместимость: популярные модели Mazda</p>
+<p><br></p>
+<p>🔧 Установка:</p>
+<p>1️⃣ Очистите и обезжирьте посадочное место</p>
+<p>2️⃣ Проверьте соответствие размера</p>
+<p>3️⃣ Аккуратно установите колпачок до щелчка</p>
+<p>4️⃣ Плотно прижмите для надёжной фиксации</p>
+<p><br></p>
+<p>⚠️ Важно: перед покупкой обязательно сверьте внешний и посадочный диаметр вашей ступицы!</p>
+<p><br></p>
+<p>📦 Быстрая отправка — оперативно отвечаю на сообщения</p>
+<p>💬 Есть вопросы? Напишите — помогу с выбором!</p>
+<p><br></p>
+<p>🔑 Ключевые слова: заглушки на диски Mazda, колпачки ступицы Мазда, заглушки на литые диски, центральные колпачки Mazda, заглушки 57/52, тюнинг дисков Mazda, стайлинг колёс</p>]]></Description>
+    <Title>Колпачки на диски Mazda 57/52 мм</Title>
+    <Price>2238</Price>
+    <GoodsType>Шины, диски и колёса</GoodsType>
+    <AdType>Товар приобретен на продажу</AdType>
+    <ProductType>Колпаки</ProductType>
+    <Condition>Новое</Condition>
+    <RimDiameter>-</RimDiameter>
+    <CapType>Заглушки для дисков</CapType>
+    <Images>
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-w/20765445944.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-o/20617120608.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-d/20617120849.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-z/20617119215.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-5/20617119185.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-0/20617118820.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-b/20617121171.jpg" />
+      <Image url="https://ir.ozone.ru/s3/multimedia-1-j/20617119883.jpg" />
     </Images>
     <TNVED>3926 30 000 0</TNVED>
     <OKPD2>22.29.29.190</OKPD2>
